@@ -1,5 +1,5 @@
 # Learning mode
-A template that allows you to open windows in learning mode.
+A template that allows you to open application windows in learning mode.
 
 ## What is Learning mode?
 
