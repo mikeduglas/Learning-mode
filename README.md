@@ -1,9 +1,16 @@
 # Learning mode
 ## What do I mean by "learning mode"?  
 This is a mode in which the user is guided step by step through the purpose of the window and controls.  
+  
+Below is a sample usage of learning mode.  
 
+The first step briefly explains where the user is and what to do next.
 ![Learning mode intro tooltip](https://github.com/mikeduglas/Learning-mode/blob/master/screenshots/lm-browse-intro-tooltip.jpg?raw=true)  
+Next steps lead to most significant controls and their purpose.
 ![Learning mode sheet control tooltip](https://github.com/mikeduglas/Learning-mode/blob/master/screenshots/lm-browse-sheet-tooltip.jpg?raw=true)  
+![Learning mode change button tooltip](https://github.com/mikeduglas/Learning-mode/blob/master/screenshots/lm-browse-change-button-tooltip.jpg?raw=true)  
+The optional final step brings the entire lesson to a close.
+![Learning mode bye tooltip](https://github.com/mikeduglas/Learning-mode/blob/master/screenshots/lm-browse-bye-tooltip.jpg?raw=true)  
 
 ## Global extension
 ![Global extension general](https://github.com/mikeduglas/Learning-mode/blob/master/screenshots/tpl-general.jpg?raw=true)  
