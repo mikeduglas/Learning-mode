@@ -4,6 +4,9 @@ This is a mode in which the user is guided step by step through the purpose of t
   
 Below is a sample usage of learning mode.  
 
+For example, let's take the School application, and the browse of students:
+[Learning mode intro tooltip](https://github.com/mikeduglas/Learning-mode/blob/master/screenshots/browsestudents.jpg?raw=true)  
+  
 The first step briefly explains where the user is and what to do next.
 ![Learning mode intro tooltip](https://github.com/mikeduglas/Learning-mode/blob/master/screenshots/lm-browse-intro-tooltip.jpg?raw=true)  
 Next steps lead to most significant controls and their purpose.
