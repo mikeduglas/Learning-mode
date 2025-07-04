@@ -34,7 +34,7 @@ Almost everything can be customized:
 - transparency
 - frame thickness
 - anchors (a location of tooltips relative to controls)
-- code page
+- code page (unicode supported)
 - hot key
 
 See template screenshots below.
